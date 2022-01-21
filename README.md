@@ -1,7 +1,9 @@
 # TEA (TEsting tool for Android)[![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://github.com/bandrewk/TEA/blob/main/LICENSE)
 ![alt text](https://github.com/bandrewk/TEA/blob/main/screenshot.png?raw=true)
 
-This tool was originally designed to help in QA with Samsung phones back in 2015. TEA is using ADB to communicate with the connected devices.
+This tool was originally designed to help in QA with Samsung phones back in 2015. 
+
+TEA is using ADB to communicate with the connected devices.
 
 **Functions:**
 - List all connected devices 
@@ -35,7 +37,7 @@ Press the `Screenshot` button, a screenshot (.png) of the device will be taken a
 All leftovers on the device will be removed.
 
 
-### Screenrecording
+### Screen recording
 
 Press the `START Video` button, a new popup will open. When done press OK to stop the recording. The file (.mp4) is moved to the users desktop. 
 
